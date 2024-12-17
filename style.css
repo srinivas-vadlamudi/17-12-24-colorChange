@@ -8,9 +8,9 @@
 .nav1{
     background-color: white;
     height:110px;
-    margin-top: 3px;
     width: 100%;
     display: flex;
+
 }
 .nav2{
     display:flex;
@@ -19,10 +19,10 @@
     background-color: #1e293b;
     color: white;
     align-items: center;
-    padding: 10px;
+    padding:15px;
     border-radius:15px;
-    width: 100%;
-    margin: auto;
+    width: 95%;
+    margin:auto;
 }
 .nav2>div>img{
     height: 50px;
@@ -42,6 +42,7 @@
     background-color: #334155;
     padding-top: 20px;
     width: 100%;
+    margin: auto;
 }
 /* colorItem */
 .colorItem{
